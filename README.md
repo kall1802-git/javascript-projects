@@ -2,3 +2,4 @@
 JavaScript projects
 ## Projects from codecademy.com training
 * kelvin-weather
+* dog-years
