@@ -5,3 +5,4 @@ JavaScript projects
 * dog-years
 * magic-eight-ball
 * race-day
+* rock-paper-scissors
