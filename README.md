@@ -4,3 +4,4 @@ JavaScript projects
 * kelvin-weather
 * dog-years
 * magic-eight-ball
+* race-day
